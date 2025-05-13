@@ -14,6 +14,6 @@ Enjoy! :)
 Notes
 This is my first Lua mod for BeamNG.drive. Feedback would be greatly appreciated so I can improve or expand it in the future!
 
-If you want the fixed version download the file titled dynamicRain_v1.1_jtf.zip
+If you want the fixed version (Removes cloud cover because it doesn't work) download the file titled dynamicRain_v1.1_jtf.zip
 
 This will not work with all maps, but it will work with most maps. If you are using this on a custom map it will not work unless the map has an object named "rain_coverage" and it is a Precipitation object.
