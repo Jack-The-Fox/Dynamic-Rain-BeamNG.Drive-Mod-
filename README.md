@@ -19,6 +19,6 @@ Enjoy!
 Notes
 This is my first Lua mod for BeamNG.drive. Feedback would be greatly appreciated so I can improve or expand it in the future!
 
-Cloud cover does not work to download the fixed version go to: https://www.beamng.com/resources/dynamic-rain.34597/
+Cloud cover does not work to download the fixed version go to: https://www.beamng.com/resources/dynamic-rain.34597/ or https://github.com/Jack-The-Fox/Dynamic-Rain-BeamNG.Drive-Mod-/releases/tag/BeamNG.Drive
 
 This will not work with all maps, but it will work with most maps. If you are using this on a custom map it will not work unless the map has an object named "rain_coverage" and it is a Precipitation object.
